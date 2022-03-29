@@ -1,0 +1,38 @@
+[
+    {
+        "key": "1",
+        "loc": "Monterrey",
+        "imgSrc": "img/loc_coldplay.jpeg",
+        "gmaps": "https://www.google.com/maps/place/Estadio+BBVA/@25.6670142,-100.2467558,16z/data=!4m9!1m2!2m1!1sgoogle+maps+bbva+stadium!3m5!1s0x8662c019f7a4c8d7:0xbf478dc0c2c5944d!8m2!3d25.6691181!4d-100.2445002!15sChhnb29nbGUgbWFwcyBiYnZhIHN0YWRpdW0iA4gBAZIBB3N0YWRpdW0",
+        "event": "BBVA Stadium ColdPlay",
+        "date": "25 Mar, 2022",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod, nisl eget consectetur tempor, nisi nisl aliquet nunc, euismod aliquam nunc nisl euismod."
+    },
+    {
+        "key": "2",
+        "loc": "Mexico City",
+        "imgSrc": "img/loc_mexcity.jpeg",
+        "gmaps": "https://www.google.com/maps/place/The+Angel+of+Independence/@19.4270206,-99.1686964,18z/data=!3m1!4b1!4m5!3m4!1s0x85d1ff35f5bd1563:0x6c366f0e2de02ff7!8m2!3d19.4270826!4d-99.167561",
+        "event": "Fabi + Hebert AWS",
+        "date": "9 Dec, 2021 - 12 Dec, 2021",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod, nisl eget consectetur tempor, nisi nisl aliquet nunc, euismod aliquam nunc nisl euismod."
+    },
+    {
+        "key": "3",
+        "loc": "Arteaga",
+        "imgSrc": "img/loc_arteaga.jpeg",
+        "gmaps": "https://www.google.com/maps/place/Bosques+de+Monterreal/@25.2321527,-100.4322049,16z/data=!4m8!3m7!1s0x868811d6400f3ed1:0x6d9ad1ac13fdc03f!5m2!4m1!1i2!8m2!3d25.2322012!4d-100.4339215",
+        "event": "Cabañas + Friends",
+        "date": "12 Nov, 2021 - 15 Nov, 2021",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod, nisl eget consectetur tempor, nisi nisl aliquet nunc, euismod aliquam nunc nisl euismod."
+    },
+    {
+        "key": "4",
+        "loc": "Galveston",
+        "imgSrc": "img/loc_galbeston.jpeg",
+        "gmaps": "https://www.google.com/maps/place/Galveston,+TX,+USA/@29.2837674,-94.8037568,15z/data=!4m5!3m4!1s0x863f59c8c4059259:0xe58b03c9b9eaecc1!8m2!3d29.3013479!4d-94.7976958",
+        "event": "Vacations with Family",
+        "date": "2 Feb, 2020 - 15 Feb, 2020",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod, nisl eget consectetur tempor, nisi nisl aliquet nunc, euismod aliquam nunc nisl euismod."
+    }
+]
